@@ -25,13 +25,17 @@ Create a temporary table called home_sales.
 
 Answer the following questions using SparkSQL:
 
-What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+### What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+$ 299661.01
 
-What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+### What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
+![image](https://github.com/CMccormick0003/home_sales_big_data/assets/120672518/47561212-16ed-4bd9-9a84-8691f27379b3)
 
-What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+### What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+![image](https://github.com/CMccormick0003/home_sales_big_data/assets/120672518/21ca698a-48d9-4e21-aeba-66799df9f3ac)
 
-What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+### What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+![image](https://github.com/CMccormick0003/home_sales_big_data/assets/120672518/9bcea424-2451-4e2e-9485-db0da08a8f30)
 
 Cache your temporary table home_sales.
 
